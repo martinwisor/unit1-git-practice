@@ -101,7 +101,8 @@ git branch -M main
 git push -u origin main
 
 ### Step 6
-
-
+martinwisor@Sofias-iMac unit1-git-practice % git add .
+martinwisor@Sofias-iMac unit1-git-practice % git commit -m "starting a menu"
+martinwisor@Sofias-iMac unit1-git-practice % git push
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
