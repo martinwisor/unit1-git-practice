@@ -1,0 +1,107 @@
+### Step 2A
+/Users/martinwisor/desktop/unit1-git-practice
+
+### Step 2B
+martinwisor@Sofias-iMac unit1-git-practice % cd ~
+martinwisor@Sofias-iMac ~ % cd desktop
+
+
+### Step 2C
+martinwisor@Sofias-iMac desktop % cd unit1-git-practice
+
+### Step 2D
+/Users/martinwisor/desktop/unit1-git-practice
+
+### Step 2E
+martinwisor@Sofias-iMac unit1-git-practice % ls
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+martinwisor@Sofias-iMac unit1-git-practice % cd /
+
+### Step 2H
+/
+
+### Step 2I
+Applications	Volumes		etc		sbin
+Library		bin		home		tmp
+System		cores		opt		usr
+Users		dev		private		var
+
+
+### Step 2J
+martinwisor@Sofias-iMac / % cd ~
+
+
+### Step 2K
+martinwisor@Sofias-iMac ~ % cd desktop
+martinwisor@Sofias-iMac desktop % cd unit1-git-practice 
+
+
+### Step 3A
+martinwisor@Sofias-iMac unit1-git-practice % mkdir veggies meats desserts
+
+### Step 3B
+martinwisor@Sofias-iMac unit1-git-practice % mv desserts sweets
+
+### Step 3C
+martinwisor@Sofias-iMac unit1-git-practice % mkdir proteins
+
+### Step 3D
+
+
+### Step 3E
+martinwisor@Sofias-iMac unit1-git-practice % cd veggies
+martinwisor@Sofias-iMac veggies % touch carrot.txt pea.txt
+
+### Step 3F
+martinwisor@Sofias-iMac veggies % cd ..
+martinwisor@Sofias-iMac unit1-git-practice % cd sweets
+martinwisor@Sofias-iMac sweets % touch cookie.txt
+
+### Step 3G
+
+
+### Step 3H
+martinwisor@Sofias-iMac sweets % cd ..
+martinwisor@Sofias-iMac unit1-git-practice % touch thing.txt
+
+### Step 3I
+martinwisor@Sofias-iMac unit1-git-practice % cp thing.txt tofu.txt
+
+### Step 3J
+martinwisor@Sofias-iMac unit1-git-practice % mv tofu.txt /Users/martinwisor/desktop/unit1-git-practice/proteins
+
+### Step 3K
+martinwisor@Sofias-iMac unit1-git-practice % cp thing.txt crab.txt
+martinwisor@Sofias-iMac unit1-git-practice % mv crab.txt /Users/martinwisor/desktop/unit1-git-practice/proteins/meats
+
+
+### Step 3L
+martinwisor@Sofias-iMac unit1-git-practice % rm thing.txt
+
+### Step 3M
+martinwisor@Sofias-iMac unit1-git-practice % cp -r veggies plants
+
+### Step 3N
+martinwisor@Sofias-iMac unit1-git-practice % mkdir drinks
+martinwisor@Sofias-iMac unit1-git-practice % rm -r drinks
+
+
+### Step 4
+martinwisor@Sofias-iMac unit1-git-practice % git init
+martinwisor@Sofias-iMac unit1-git-practice % git add .
+martinwisor@Sofias-iMac unit1-git-practice % git commit -m "unit1-git-practice"
+martinwisor@Sofias-iMac unit1-git-practice % 
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
