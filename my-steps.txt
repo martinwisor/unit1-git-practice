@@ -94,11 +94,11 @@ martinwisor@Sofias-iMac unit1-git-practice % rm -r drinks
 martinwisor@Sofias-iMac unit1-git-practice % git init
 martinwisor@Sofias-iMac unit1-git-practice % git add .
 martinwisor@Sofias-iMac unit1-git-practice % git commit -m "unit1-git-practice"
-martinwisor@Sofias-iMac unit1-git-practice % 
-
 
 ### Step 5
-
+martinwisor@Sofias-iMac unit1-git-practice % git remote add origin https://github.com/martinwisor/unit1-git-practice.git
+git branch -M main
+git push -u origin main
 
 ### Step 6
 
